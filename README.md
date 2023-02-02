@@ -1,5 +1,5 @@
-# API-Rest
-<h3> API Rest com Spring Framework, backend com Java, integração com banco de dados MySQL. </h3>
+# Api-Rest
+<h3> API Rest com Spring Framework, backend Java, integração com banco de dados MySQL. </h3>
 
 <h4>Features:</h4> 
 1 - Criação de CRUD de dos dois controllers.
